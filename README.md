@@ -8,4 +8,4 @@ results.csv为最终分析的数据结果。
 
 layer.jpg为户型信息分布饼状图。
 
-direction.jpg为房间朝向信息分布饼状图
+direction.jpg为房间朝向信息分布饼状图。
